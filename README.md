@@ -37,13 +37,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 This project is using Bootstrap for creating a clear layout and polished 
-style of a demo commerce website. The website is fully responsive with a 
-dedicated mobile navbar that opens with the 'hamburger' icon. It also 
-features a phot slide carousel at the bottom of the page. The project was 
+style of a demo commerce website. The website is fully responsive with a dedicated mobile navbar that opens with the 'hamburger' icon. It also 
+features a photo slide carousel at the bottom of the page. The project was 
 completed at the end of the codecademy.com course 'Learn Bootstrap'.
 
 
-![Product Name Screen Shot](imgs/bootsrap1.png)
+![Product Name Screen Shot](imgs/bootstrap1.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
